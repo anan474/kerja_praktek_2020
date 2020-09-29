@@ -11,6 +11,17 @@
 
 Judul yang telah diambil sesuai dari [daftar judul](https://docs.google.com/document/d/1dGs90X77aI-ThaweZcBYOQqhhgbNdpOX_zUu4oUOu1g/edit?usp=sharing).
 
+### Memetakan infrastruktur Universitas Tanjungpura dengan openstreetmap (Judul 1, dengan pengubahan dari dokumen sebelumnya)
+
+> Infrastruktur cek [wikipedia](https://id.wikipedia.org/wiki/Infrastruktur), dalam kerja praktek ini lebih di fokuskan pada infrastuktur bangunan dan jalan (Mungkin ada pengurangan atau penambahan).
+
+Universitas Tanjungpura adalah instansi pendidikan yang memiliki banyak infrastruktur, seperti bangunan, jalan, dan lainnya. Saat ini belum ada peta infrastruktur yang detail, akurat dan terbarukan. Dibutuhkan pengerjaan digitasi infrastruktur di Universitas Tanjungpura menggunakan openstreetmap sehingga dapat dijadikan dasar dalam pemetaan, monitoring, perancangan, analisis dan tugas lainnya. Berikut hal yang akan dilakukan:
+
+- Rancang website untuk melakukan input data infrastruktur di Universitas Tanjungpura. Dengan database yang sudah disediakan.
+- Bangun website untuk melakukan input data infrastruktur.
+- Dari data infrastruktur yang disediakan, gambar pada peta openstreetmap dan simpan data melalui website yang dibuat.
+- Kembangkan website untuk bisa menampilkan peta yang sudah digambar dan daftar data infrastruktur.
+
 ### Pemetaan kabel fiber optik di Universitas Tanjungpura (Judul 2)
 
 Koneksi internet antar bangunan di Universitas Tanjungpura dibagikan dengan menggunakan kabel fiber optik dengan beberapa pusat distribusi (Judul 3). Dibutuhkan aplikasi (website) untuk memetakan jaringan kabel fiber optik tersebut sehingga dapat digunakan sebagai sarana inventarisasi dan model peracangan pengembangan jaringan serta memudahkan teknisi dalam melakukan troubleshooting. Berikut hal yang akan dilakukan:
