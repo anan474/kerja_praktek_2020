@@ -1,0 +1,1 @@
+0 */1 * * * /home/ubuntu/sync_osm_databases/sync_osm_databases_task.sh >> /home/ubuntu/sync_osm_databases/cron.log 2>&1
